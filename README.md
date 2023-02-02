@@ -8,3 +8,10 @@ I hosted study groups for my class. We run through activities and ask questions 
     
 - [Cybersecurity Acronyms](https://1drv.ms/v/s!AjduuC0e3vtugUB5X5HcPpSHHJnu?e=QvZyCB)
 - [Creating & Restoring Backups](https://1drv.ms/v/s!AjduuC0e3vtugWBTtezf_ja-NnVa?e=gMoAty) with <pre><code>tar</code></pre>
+- [Combining Commands & Log Filtering](https://1drv.ms/v/s!AjduuC0e3vtugWiO_eOD6FxpDQE5?e=Bamvbl)
+
+    <pre><code>sed</code></pre>
+    <pre><code>awk</code></pre>
+    <pre><code>|</code></pre>
+    <pre><code>&&</code></pre>
+    <pre><code>;</code></pre>
