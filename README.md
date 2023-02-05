@@ -5,6 +5,10 @@ I hosted study groups for my class. We run through activities and ask questions 
 <pre><code>logrotate</code></pre>
 <pre><code>audit</code></pre>
 - [Cybersecurity Acronyms](https://1drv.ms/v/s!AjduuC0e3vtugUB5X5HcPpSHHJnu?e=QvZyCB)
+    - BIA Metrics
+    - Business Contigency Planning
+    - Disaster Recovery
+    - NIST Impact Levels
 - [Creating & Restoring Backups](https://1drv.ms/v/s!AjduuC0e3vtugWBTtezf_ja-NnVa?e=gMoAty) with <pre><code>tar</code></pre>
 -  [Basic Buidling Blocks](https://1drv.ms/v/s!AjduuC0e3vtuccWT4rLX19TfEXc?e=KJGBnd) 
     - Start at 10:40 min ... took us a second to pull it together :hand_over_mouth:
